@@ -6,3 +6,7 @@ Discover magical places, items of power, make friends and enemies in this journe
 Stay up to the chapters.
 
 @Matheus
+
+## Index
+
+- Capítulo 1 - A Restauração de Erathia (_New!_) 
