@@ -9,4 +9,4 @@ Stay up to the chapters.
 
 ## Index
 
-- Capítulo 1 - A Restauração de Erathia (_New!_) 
+- [Capítulo 1 - A Restauração de Erathia] _New!_
