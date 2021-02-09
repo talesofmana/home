@@ -1,8 +1,8 @@
 # 📖 Tales of Mana
 
-Tales of Mana is a series of stories that take place in the world of Mana.
-You are an elf, Evira (male or female) about to begin your journey to discovery, might and magic!
+Tales of Mana is a series of stories that take place in the _World of Mana_.
+Discover magical places, items of power, make friends and enemies in this journey to _Might & Magic_!
 
-Stay up to the chapters launched each two weeks.
+Stay up to the chapters.
 
-M.
+> M.
