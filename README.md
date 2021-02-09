@@ -7,4 +7,4 @@ Stay up to the chapters.
 
 ## Index
 
-- [Capítulo 1 - Example Name](https://www.google.com.br/) _New!_
+- [Chapter 1 - Example Name](https://www.google.com.br/) _New!_
