@@ -5,8 +5,6 @@ Discover magical places, items of power, make friends and enemies in this journe
 
 Stay up to the chapters.
 
-@Matheus
-
 ## Index
 
 - [Capítulo 1 - Example Name](https://www.google.com.br/) _New!_
